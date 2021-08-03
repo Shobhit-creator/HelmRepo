@@ -32,7 +32,7 @@ mysqldb:
 secret:
   data:
      # AWS RDS instance password
-     password: d29yZHByZXNz
+     password: base64_encoded_password
 
 resources:
   requests:
