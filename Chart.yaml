@@ -1,9 +1,0 @@
-apiVersion: v1
-description: Install a wordpress deployment
-keywords:
-- wordpress
-maintainers:
-- email: pshobhitsingh01@gmail.com
-  name: Shobhit
-name: wordpress-deployment
-version: 1.0.0
